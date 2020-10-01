@@ -1,6 +1,4 @@
-# mission1_flutterwidgets
-
-## Mission 1 - Flutter Widgets
+# Mission 1 - Flutter Widgets
 
 Flutter widget :
   - Stack
