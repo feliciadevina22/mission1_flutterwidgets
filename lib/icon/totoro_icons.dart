@@ -11,7 +11,7 @@
 ///      fonts:
 ///       - asset: fonts/Totoro.ttf
 ///
-/// 
+///
 ///
 import 'package:flutter/widgets.dart';
 
@@ -21,6 +21,8 @@ class Totoro {
   static const _kFontFam = 'Totoro';
   static const _kFontPkg = null;
 
-  static const IconData studio_ghibli = IconData(0xe800, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData totoro = IconData(0xe801, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData studio_ghibli =
+      IconData(0xe800, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData totoro =
+      IconData(0xe801, fontFamily: _kFontFam, fontPackage: _kFontPkg);
 }
