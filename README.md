@@ -1,6 +1,12 @@
-# mission1_flutterwidgets
+# Mission 1 - Flutter Widgets
 
-A new Flutter project.
+Flutter widget :
+  - Stack
+  - Flexible
+  - Container
+  - Column and Row
+  - Floating Action Button
+  - other
 
 ## Getting Started
 
