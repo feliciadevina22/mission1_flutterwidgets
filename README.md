@@ -1,5 +1,6 @@
-# Mission 1 - Flutter Widgets
+# Mission - Flutter Widgets
 
+## Mission 1
 Flutter widget :
   - Stack
   - Flexible
@@ -8,7 +9,14 @@ Flutter widget :
   - Floating Action Button
   - other
 
-## Getting Started
+## Mission 2
+Flutter widget :
+  - Text Field
+  - Back Button
+  - Flat Button
+  - other
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
